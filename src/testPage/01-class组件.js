@@ -20,7 +20,9 @@
 
 import React from "react";
 class App extends React.Component{
+    // Component——组件类、extends一定要继承
     render() {
+        // 返回 jsx
         return <h1>01-class组件</h1>
     }
 }
